@@ -1,4 +1,4 @@
-# Fala dev,tudo bem por aí? eu sou o Vitor Luna
+# Fala dev, tudo bem por aí? eu sou o Vitor Luna
 
 Desenvolvedor Back-End e me encaixando ao DevOPs também, sou um grande entusiasta por tecnologia, soluções e inovação.  
 Atualmente focado em desenvolvimento de APIs, banco de dados, microsserviços, integração de sistemas e automações.
