@@ -5,7 +5,7 @@ Atualmente focado em desenvolvimento de APIs, banco de dados, microsserviços, i
 
 ---
 
-## 🚀 Tecnologias que eu uso/já usei no dia a dia
+## Tecnologias que eu uso/já usei no dia a dia
 
 <div style="display: inline_block">
   <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -23,7 +23,7 @@ Atualmente focado em desenvolvimento de APIs, banco de dados, microsserviços, i
 
 ---
 
-## 🏗️ Práticas que aplico
+## Práticas que aplico
 
 - Desenvolvimento de APIs REST e SOAP
 - Microsserviços  
@@ -35,7 +35,7 @@ Atualmente focado em desenvolvimento de APIs, banco de dados, microsserviços, i
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/Vitor-Luna">
@@ -45,7 +45,7 @@ Atualmente focado em desenvolvimento de APIs, banco de dados, microsserviços, i
 
 ---
 
-## 💡 Sobre mim
+## Sobre mim
 
 - 🔥 Foco total em back-end (atualmente também incluindo o mundo DevOPs), banco de dados, integrações e automações  
 - 🧠 Sempre aprendendo coisas novas e melhorando  
@@ -53,7 +53,7 @@ Atualmente focado em desenvolvimento de APIs, banco de dados, microsserviços, i
 
 ---
 
-## 📫 Me conecta aí:
+## Você também me encontra em:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vitor-luna-a66619310/)  
 - 📧 joaoluna852@gmail.com  
