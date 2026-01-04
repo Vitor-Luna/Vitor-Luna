@@ -36,10 +36,10 @@ Atualmente atuo em projetos de APIs REST/SOAP, microsserviços e banco de dados 
 
 ## GitHub Stats
 
-<div align="center"> <a href="https://github.com/Vitor-Luna"> <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=Vitor-Luna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Luna&layout=compact&langs_count=7&theme=tokyonight" />
+< div  align = " center " >
+  <a href="https://github.com/Vitor-Luna">​ ​​​​​​
+  < img  height = " 180em "  src = " https://github-readme-stats.vercel.app/api?username=Vitor-Luna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true " />
+  < img  height = " 180em "  src = " https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Luna&layout=compact&langs_count=7&theme=tokyonight " />
 </div>
 
 ---
