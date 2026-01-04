@@ -1,7 +1,7 @@
 # Fala, dev! Eu sou o Vitor Luna
 
 Desenvolvedor Full-Stack com foco em back-end, integração de sistemas corporativos e automações, explorando também o mundo de Big Data e pipelines de dados.  
-Atualmente atuo em projetos de APIs REST/SOAP, microsserviços, banco de dados SQL e containerização, sempre buscando eficiência e soluções escaláveis.
+Atualmente atuo em projetos de APIs REST/SOAP, microsserviços e banco de dados SQL, sempre buscando eficiência e soluções escaláveis.
 
 ---
 
@@ -15,12 +15,11 @@ Atualmente atuo em projetos de APIs REST/SOAP, microsserviços, banco de dados S
   <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
-**Outras habilidades:** SAP Business One, RM, Manusis, APIs SOAP/REST, XML/JSON, DevOps, automação de processos corporativos.
+**Outras habilidades:** SAP Business One, RM, Manusis, APIs SOAP/REST, XML/JSON, automação de processos corporativos.
 
 ---
 
@@ -37,21 +36,17 @@ Atualmente atuo em projetos de APIs REST/SOAP, microsserviços, banco de dados S
 
 ## GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Vitor-Luna">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Luna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Luna&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitor-Luna&theme=tokyonight)](https://github.com/Vitor-Luna)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Luna&layout=compact&theme=tokyonight)](https://github.com/Vitor-Luna)
 
 ---
 
 ## Sobre mim
 
-- Foco em back-end, integração de sistemas corporativos, automações e big-data.
-- Experiência em projetos corporativos de integração ERP e pipelines de dados.
-- Sempre aprendendo e explorando novas tecnologias.
-- Acredito que tecnologia transforma vidas e negócios.
+- Foco em back-end, integração de sistemas corporativos, automações e big-data  
+- Experiência em projetos corporativos de integração ERP e pipelines de dados  
+- Sempre aprendendo e explorando novas tecnologias  
+- Acredito que tecnologia transforma vidas e negócios  
 
 ---
 
