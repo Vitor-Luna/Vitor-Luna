@@ -34,18 +34,6 @@ Atualmente atuo em projetos de APIs REST/SOAP, microsserviços e banco de dados 
 
 ---
 
-## GitHub Dashboard
-
-<div align="center">
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Luna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Luna&layout=compact&langs_count=7&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-Luna&theme=tokyonight" />
-
-</div>
-
----
-
 ## Sobre mim
 
 - Foco em back-end, integração de sistemas corporativos, automações e big-data  
