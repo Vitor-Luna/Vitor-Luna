@@ -47,9 +47,9 @@ Atualmente focado em desenvolvimento de APIs, banco de dados, microsserviços, i
 
 ## Sobre mim
 
-- 🔥 Foco total em back-end (atualmente também incluindo o mundo DevOPs), banco de dados, integrações e automações  
-- 🧠 Sempre aprendendo coisas novas e melhorando  
-- 🚀 Acredito que tecnologia é um meio de transformar vidas e negócios  
+- Foco total em back-end (atualmente também incluindo o mundo DevOPs), banco de dados, integrações e automações  
+- Sempre aprendendo coisas novas e melhorando  
+- Acredito que tecnologia é um meio de transformar vidas e negócios  
 
 ---
 
