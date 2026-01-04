@@ -1,62 +1,64 @@
-# Fala dev, tudo bem por aí? eu sou o Vitor Luna
+# Fala, dev! Eu sou o Vitor Luna
 
-Desenvolvedor Back-End e me encaixando ao DevOPs também, sou um grande entusiasta por tecnologia, soluções e inovação.  
-Atualmente focado em desenvolvimento de APIs, banco de dados, microsserviços, integração de sistemas e automações.
+Desenvolvedor Full-Stack com foco em back-end, integração de sistemas corporativos e automações, explorando também o mundo de Big Data e pipelines de dados.  
+Atualmente atuo em projetos de APIs REST/SOAP, microsserviços, banco de dados SQL e containerização, sempre buscando eficiência e soluções escaláveis.
 
 ---
 
-## Tecnologias que eu uso/já usei no dia a dia
+## Tecnologias que aplico
 
 <div style="display: inline_block">
   <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Github Actions" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
+
+**Outras habilidades:** SAP Business One, RM, Manusis, APIs SOAP/REST, XML/JSON, DevOps, automação de processos corporativos.
 
 ---
 
 ## Práticas que aplico
 
-- Desenvolvimento de APIs REST e SOAP
-- Microsserviços  
-- Integração de sistemas  
-- Banco de dados SQL  
-- CI/CD com GitHub Actions  
-- Dockerização de aplicações  
-- Automação de processos  
+- Desenvolvimento de APIs REST/SOAP e microsserviços  
+- Integração de sistemas corporativos (SAP, RM, Manusis)  
+- Back-end com Node.js e Python, com bancos SQL (MySQL, PostgreSQL, SQL Server)  
+- Automação de processos e scripts corporativos  
+- Manipulação e transformação de dados (XML, JSON, logs)  
+- Monitoramento, tratamento de erros e pipelines de dados  
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Vitor-Luna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Luna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Luna&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Luna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Luna&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 ---
 
 ## Sobre mim
 
-- Foco total em back-end (atualmente também incluindo o mundo DevOPs), banco de dados, integrações e automações  
-- Sempre aprendendo coisas novas e melhorando  
-- Acredito que tecnologia é um meio de transformar vidas e negócios  
+- Foco em back-end, integração de sistemas corporativos, automações e big-data.
+- Experiência em projetos corporativos de integração ERP e pipelines de dados.
+- Sempre aprendendo e explorando novas tecnologias.
+- Acredito que tecnologia transforma vidas e negócios.
 
 ---
 
-## Você também me encontra em:
+## Você também me encontra em
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vitor-luna-a66619310/)  
-- 📧 joaoluna852@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/vitor-luna-a66619310/)  
+- E-mail: joaoluna852@gmail.com  
 
 ---
 
