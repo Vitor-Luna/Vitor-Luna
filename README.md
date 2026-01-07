@@ -18,7 +18,8 @@ Atualmente atuo em projetos de APIs REST/SOAP, microsserviços e banco de dados 
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
+</div><br>
+
 
 **Outras habilidades:** SAP Business One, RM, Manusis, APIs SOAP/REST, XML/JSON, automação de processos corporativos.
 
