@@ -1,7 +1,7 @@
 # Fala, dev! Eu sou o Vitor Luna
 
-Desenvolvedor Full-Stack com foco em back-end, integração de sistemas corporativos e automações, explorando também o mundo de Big Data e pipelines de dados.  
-Atualmente atuo em projetos de APIs REST/SOAP, microsserviços e banco de dados SQL, sempre buscando eficiência e soluções escaláveis.
+**Desenvolvedor Full-Stack e analista de sistemas**. Integração de sistemas corporativos e automações, explorando também o mundo de Big Data e pipelines de dados.  
+Atualmente atuo em projetos de APIs REST/SOAP, microsserviços e banco de dados SQL, na startup de tecnologia e integração de sistemas **N4LINK**. Sempre buscando eficiência e soluções escaláveis.
 
 ---
 
